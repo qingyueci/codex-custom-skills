@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simple Poem Against"
+  short_description: "按原文气质选择保留、哲思或讽刺，并自适应画幅生成诗歌海报"
+  default_prompt: "Use $simple-poem-against to read the source mood, choose an appropriate relation mode and canvas, then create an image-led or type-led poetry zine poster."
