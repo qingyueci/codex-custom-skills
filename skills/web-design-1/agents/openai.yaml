@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Design 1"
+  short_description: "�������Ż������ղ���������ʽͼƬ����Ƶ������վ������������"
+  default_prompt: "ʹ�� $web-design-1 ���ҵ���Ƭ����̬��Ƭ����Ƶ����Ƶ��������Ӧʽ�ɽ���������վ��"
